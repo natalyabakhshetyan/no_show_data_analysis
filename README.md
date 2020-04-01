@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # No-show Appointments Data Analysis
 
 The project investigates the data set of 100k medical appointments across hospitals in Brazil. Specifically, it explores the factors that may or may not predict whether a patient will show up to their appointment. This project is part of Udacity's Data Analysis Nanodegree program requirements.
@@ -33,3 +34,6 @@ jupyter notebook
 ## Authors
 
 * **Natalya Bakhshetyan** - [Github profile](https://github.com/natalyabakhshetyan)
+=======
+**No Show Data Analysis**
+>>>>>>> 4f9d33a1ab49c582c10792b4879fe9ba00faf5f5
