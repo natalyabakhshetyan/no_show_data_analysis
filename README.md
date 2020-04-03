@@ -4,10 +4,6 @@ The project investigates the data set of 100k medical appointments across hospit
 
 ## Getting Started
 
-To load this project on your local machine use:
-```
-$ git clone https://github.com/natalyabakhshetyan/no_show_data_analysis
-```
 ### Prerequisites
 
 Please refer to [Jupyter Documentation](https://jupyter.readthedocs.io/en/latest/install.html) to install the prerequisites.
@@ -19,6 +15,8 @@ To load this project on your local machine use the following command:
 ```
 $ git clone https://github.com/natalyabakhshetyan/no_show_data_analysis
 ```
+
+### Running
 
 Navigate to the file in the terminal and type the following command to access the jupyter notebook on your browser:
 
